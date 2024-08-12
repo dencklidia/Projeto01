@@ -9,3 +9,4 @@ Meu nome é Lídia
 
 lidia.pontarollo@escola.pr.gov.br
 
+![](https://media.tenor.com/19B3eSbZ7CkAAAAj/verycat-cat-eating-chips.gif)|
