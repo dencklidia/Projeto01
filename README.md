@@ -1,12 +1,3 @@
-#### Boas vindas ao meu perfil 💙
-Meu nome é Lídia
+Projeto01
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-
-### Você pode entrar em contato comigo:
-
-lidia.pontarollo@escola.pr.gov.br
-
-![](https://media.tenor.com/19B3eSbZ7CkAAAAj/verycat-cat-eating-chips.gif)|
+Projeto01 © 2024 by Lídia Ester is marked with CC0 1.0 Universal. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
